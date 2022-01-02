@@ -1,0 +1,169 @@
+*{
+	 margin-left: 15px;
+	 margin-right: 15px;
+}
+.area-1{  
+  background-image: url("D:/js/task-web/image/Banner_mage.png");
+  background-size: 100% 100%;
+  height: 540px; 
+}
+.logo{
+	padding: 50px 0px 45px 156px;
+}
+h1{
+	color: white;
+	font-size: 30px;
+	line-height: 40px;
+	font-family: 'Rubik', sans-serif;
+}
+.title{
+	margin-left: 150px;
+}
+.btn{
+	margin-left: 15px;
+    border-radius: 0px !important;
+}
+.bg-sub{
+	font-family: 'Quicksand', sans-serif;
+}
+.form-data{
+	margin-top: 50px
+}
+form{
+	padding: 25px
+	line-height:30px;
+}
+h5{
+	color: #09337c;
+    line-height: 75px;
+    margin-left: 2px;
+}
+.bg{
+	margin-left: 2px;
+	width: 100px;
+}
+input,textarea{
+	    margin-bottom: 10px;
+	    border-radius: 0px !important;
+	    font-size: 12px !important;	    
+}
+input{
+	    padding: 10px !important;
+}
+.form-box{
+	    padding: 8px 0px 45px 0px;
+	    border-radius: 0px;
+}
+.bg-text{
+	background: linear-gradient(to right, rgb(36, 198, 220), rgb(120 111 218));
+	padding: 18px 12px 2px 12px;
+   border-radius: 6px;
+}
+.sub{
+	color: white;
+	margin-left: 1px;
+}
+.area-2, .area-3, .area-4,.area-5,.area-6,.area-7{
+	margin-top: 80px;
+	margin-left: 100px;
+	marker-right: 100px;
+}
+.area-3{
+	margin-left: 170px;
+}
+.area-4{
+	margin-right: 100px;
+}
+p,li{
+	font-size: 16px;
+	color: #6e6868;
+}
+li{
+  list-style-image:url('D:/js/task-web/image/hospital.png');
+  padding:5px 0 0 40px;
+  line-height: 40px;
+  padding: 5px 0 0 12px;
+} 
+.img{
+	    margin-top: 16px;
+}
+hr{
+	color: #888;
+}
+.bone{
+}
+h2{
+	color: #22B78E;
+}
+h3{
+	color:#22B78E;	
+	margin-bottom: 35px;
+}
+h4,.sub-degree{
+	color:#1D5AA6;
+}
+.doctor{
+	padding: 30px;
+	background: #F9F9FF;
+}
+.know-more-btn{
+  background-image: linear-gradient(to right, #17EAD9 ,  #6078EA);
+  border-radius: 4px !important;
+  height: 47px;
+  width: 128px;
+  color:white;
+}
+.know-more-btn:hover{
+	color:white;
+}
+td{
+	width: 22%;
+	padding: 15px;
+}
+.icon{
+ width: 28px;
+ height: 35px;
+ margin-bottom: 9px;
+}
+.item{
+	padding: 18px;
+    height: 160px;
+}
+h6{
+	color: #1D5AA6;
+	line-height: 51px;
+}
+.accordion-button{
+	color: #1D5AA6;
+	font-size: 20px;
+	font-weight: 600px;
+
+}
+.accordion-button:not(.collapsed) {
+	background: white !important;
+}
+.accordion-button:focus {
+	display: none;
+}
+.doc{
+	float: left;
+}
+.box{
+	padding: 20px;
+}
+.book{
+ background: #004498;
+ color: white;
+ border-radius: 6px;
+ width:  230px;
+ font-size: 18px;
+}
+.book:hover{
+	color: white;
+}
+footer{
+	background: #272727;
+	padding: 100px;
+}
+
+
